@@ -11,7 +11,6 @@ We construct two Convolutional Neural Networks (CNN) for image classification, u
 
 The data used comes from the widely popular [CIFAR-10](http://www.cs.toronto.edu/~kriz/cifar.html) dataset which consists of 60000 32x32 color images in 10 classes, with 6000 images per class.
 
----
 ## ConvolutionalNN_with_PyTorch.ipynb
 
 The architecture of the networks are as follows:

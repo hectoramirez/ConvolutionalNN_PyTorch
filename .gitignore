@@ -10,3 +10,4 @@ data/cifar-10-batches-py/test_batch
 data/cifar-10-python.tar.gz
 Images2.py
 CNN_pytorchq.py
+CNN_pytorch.py

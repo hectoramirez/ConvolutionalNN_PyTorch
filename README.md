@@ -2,6 +2,7 @@
 
 __Convolutional neural networks for image classification using the Torch library__
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hectoramirez/ImageClassification_pytorch/master?filepath=ConvolutionalNN_with_PyTorch.ipynb)
 ![CNN](https://img.shields.io/badge/CNN-Image%20Classification-informational)
 ![HD](https://img.shields.io/badge/-PyTorch-important)
 

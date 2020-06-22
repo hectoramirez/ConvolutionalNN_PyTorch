@@ -11,3 +11,11 @@ data/cifar-10-python.tar.gz
 Images2.py
 CNN_pytorchq.py
 CNN_pytorch.py
+.ipynb_checkpoints/CNN_pytorch-checkpoint.py
+.ipynb_checkpoints/ConvolutionalNN_with_PyTorch-checkpoint.ipynb
+.ipynb_checkpoints/Images-checkpoint.py
+.ipynb_checkpoints/Images2-checkpoint.py
+.ipynb_checkpoints/README-checkpoint.md
+.ipynb_checkpoints/requirements-checkpoint.txt
+__pycache__/Images.cpython-37.pyc
+__pycache__/Images2.cpython-37.pyc
